@@ -1,4 +1,9 @@
 .Hello-world {
+  background-color: aqua;
+  width: 50%;
+  margin: 0px auto;
+  border-radius: 10px;
   text-align: center;
-  font-family: "Shizuru", cursive;
+  font-family: "Raleway", sans-serif;
+  font-size: 1em;
 }
